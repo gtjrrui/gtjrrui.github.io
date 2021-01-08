@@ -1,6 +1,8 @@
 # George Thompson
 
-gtjrrui@uw.edu
+Email: gtjrrui@uw.edu
+
+https://github.com/gtjrrui/gtjrrui.github.io
 
 ## Summary
 
@@ -12,6 +14,8 @@ Proficient in the field of Geography, and willing to further explore the core as
 
 ## Education
 
+![University of Washington Logo](./img/uw.png "Logo of UW")
+
 #### University of Washington (Seattle, Washington)
 
 >[University of Washington](https://www.washington.edu/) The University of Washington is a public research university in Seattle, Washington, United States. Founded in 1861, Washington is one of the oldest universities on the West Coast; it was established in downtown Seattle approximately a decade after the city's founding to aid its economic development.
@@ -22,5 +26,6 @@ Source: [Wikpedia](https://en.wikipedia.org/wiki/University_of_Washington)
 
 - Graduating with a major in **Geography: Data Science**.
 - Graduating with a minor in **Informatics**
+- Various experience related to Geography, Computers, and Data Science.
 
 [School Website](https://www.washington.edu/)
